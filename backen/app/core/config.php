@@ -3,10 +3,10 @@
 define("WEBSITE_NAME", "Backen");
 
 define('DB_TYPE', 'mysql');
-define('DB_NAME', 'schmidschluch6');
-define('DB_USER', 'schmidschluch6');
-define('DB_PASS', 'backen1');
-define('DB_HOST', 'db8.hostpark.net');
+define('DB_NAME', 'schmidschluch');
+define('DB_USER', 'root');
+define('DB_PASS', '');
+define('DB_HOST', 'localhost');
 
 define('PROTOCOL', 'http');
 
